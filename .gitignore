@@ -2,3 +2,5 @@
 .idea/
 # Config file
 config.php
+# Ignore bakup
+data\MyModel.mwb.bak
