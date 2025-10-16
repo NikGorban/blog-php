@@ -4,5 +4,3 @@
 config.php
 # ignore backup WorkBench
 /data/MyModel.mwb.bak
-#ignore vendor PHP
-vendor
